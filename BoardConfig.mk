@@ -26,7 +26,7 @@ TARGET_OTA_ASSERT_DEVICE := beckham
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_beckham_defconfig
+TARGET_KERNEL_CONFIG := rk_beckham_defconfig
 TARGET_KERNEL_SOURCE := kernel/motorola/msm8998
 TARGET_KERNEL_CLANG_COMPILE := true
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
