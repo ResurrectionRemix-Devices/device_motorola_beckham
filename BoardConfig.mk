@@ -30,7 +30,6 @@ TARGET_KERNEL_CONFIG := rk_beckham_defconfig
 TARGET_KERNEL_SOURCE := kernel/motorola/msm8998
 TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_CLANG_VERSION := 8.0.8
-BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # NFC
 BOARD_NFC_CHIPSET := pn553
