@@ -456,6 +456,8 @@ etc/permissions/com.motorola.mod.protocols.xml
 etc/permissions/com.motorola.mod.xml|b25e55275b7ecc5f4d46db52c6148fe7c75ff60b
 etc/permissions/com.motorola.mod_config.xml
 etc/permissions/com.motorola.mod_v2.xml
+etc/permissions/privapp-permissions-com.motorola.modservice.xml
+etc/permissions/privapp-permissions-com.motorola.projectormod.xml
 lib/libmodmaner_system.so
 lib64/libmodhw.so
 lib64/libmodmanager_system.so
