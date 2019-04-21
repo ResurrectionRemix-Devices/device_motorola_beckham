@@ -459,19 +459,27 @@ etc/permissions/com.motorola.mod_v2.xml
 etc/permissions/privapp-permissions-com.motorola.modservice.xml
 etc/permissions/privapp-permissions-com.motorola.projectormod.xml
 lib/libmodmaner_system.so
+lib/motorola.hardware.mods_camera.provider@2.4.so
+lib/motorola.hardware.vibrator@1.0.so
 lib64/libmodhw.so
 lib64/libmodmanager_system.so
 lib64/libvibrator.so
+lib64/motorola.hardware.health@1.0.so
+lib64/motorola.hardware.mods_camera.provider@2.4.so
+lib64/motorola.hardware.vibrator@1.0.so
 -priv-app/ModService/ModService.apk:priv-app/ModService/ModService.apk;PRESIGNED
 -priv-app/ProjectorApp/ProjectorApp.apk:priv-app/ProjectorApp/ProjectorApp.apk;PRESIGNED
 vendor/bin/mods_camd
 vendor/bin/hw/motorola.hardware.health@1.0-service
 vendor/bin/hw/motorola.hardware.mods_camera.provider@2.4-service
+vendor/bin/hw/motorola.hardware.vibrator@1.0-service
 vendor/etc/init/motorola.hardware.health@1.0-service.rc
 vendor/etc/init/motorola.hardware.mods_camera.provider@2.4-service.rc
+vendor/etc/init/motorola.hardware.vibrator@1.0-service.rc
 vendor/lib/hw/audio.primary.sdm660.so
 vendor/lib/hw/libcamera_mods_legacy_hal.so
 vendor/lib/hw/motorola.hardware.mods_camera.provider@2.4-impl.so
+vendor/lib/hw/motorola.hardware.vibrator@1.0-impl.so
 vendor/lib/com.motorola.mod@1.0_vendor.so
 vendor/lib/libaudioroute.so
 vendor/lib/libmodmanager.so
@@ -481,11 +489,14 @@ vendor/lib/libtinycompress_vendor.so
 vendor/lib/libunshorten.so
 vendor/lib/motorola.hardware.health@1.0.so
 vendor/lib/motorola.hardware.mods_camera.provider@2.4_vendor.so
+vendor/lib/motorola.hardware.vibrator@1.0.so
 vendor/lib64/hw/motorola.hardware.mods_camera.provider@2.4-impl.so
+vendor/lib64/hw/motorola.hardware.vibrator@1.0-impl.so
 vendor/lib64/com.motorola.mod@1.0_vendor.so
 vendor/lib64/libmodmanager.so
 vendor/lib64/motorola.hardware.health@1.0.so
 vendor/lib64/motorola.hardware.mods_camera.provider@2.4_vendor.so
+vendor/lib64/motorola.hardware.vibrator@1.0.so
 
 # NFC
 vendor/lib64/libpn553_fw.so
