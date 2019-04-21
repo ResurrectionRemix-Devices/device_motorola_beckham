@@ -449,6 +449,7 @@ vendor/lib64/libkeymasterprovision.so
 vendor/lib64/libkeymasterutils.so
 
 # Moto Mods
+-app/MotCameraMod/MotCameraMod.apk
 -priv-app/ModFmwkProxyService/ModFmwkProxyService.apk
 etc/firmware/upd-00000126-00001001-fed70128-fffe0001-02.tftf
 etc/permissions/com.motorola.aov.xml
