@@ -457,7 +457,8 @@ etc/permissions/com.motorola.mod.protocols.xml
 etc/permissions/com.motorola.mod.xml|db2815f8b5d1fa0bf973d4814f65557cf3ece6b3
 etc/permissions/com.motorola.mod_config.xml
 etc/permissions/com.motorola.mod_v2.xml
-etc/permissions/privapp-permissions-com.motorola.modservice.xml
+ect/permissions/privapp-permissions-com.motorola.modservice.fmwkwrapper.xml|fde3c99c21661236d3a5b2574f94f708e7e16cc5
+etc/permissions/privapp-permissions-com.motorola.modservice.xml|a39773bcee02e230a52033bfddbabd7149d8613b
 etc/permissions/privapp-permissions-com.motorola.projectormod.xml
 lib/libmodmaner_system.so
 lib/motorola.hardware.mods_camera.provider@2.4.so
