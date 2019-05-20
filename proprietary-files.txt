@@ -450,7 +450,7 @@ vendor/lib64/libkeymasterutils.so
 
 # Moto Mods
 -app/MotCameraMod/MotCameraMod.apk
--priv-app/ModFmwkProxyService/ModFmwkProxyService.apk
+-priv-app/ModFmwkProxyService/ModFmwkProxyService.apk|36fdc66b39643433d2ffa46c986e300c6e6f7288
 etc/firmware/upd-00000126-00001001-fed70128-fffe0001-02.tftf
 etc/permissions/com.motorola.aov.xml
 etc/permissions/com.motorola.mod.protocols.xml
@@ -487,6 +487,7 @@ vendor/lib/motorola.hardware.mods_camera.provider@2.4_vendor.so
 vendor/lib64/hw/motorola.hardware.mods_camera.provider@2.4-impl.so
 vendor/lib64/com.motorola.mod@1.0_vendor.so
 vendor/lib64/libmodmanager.so
+vendor/lib64/libvibratorhw.so|b859a3f3c47717a6088cc904bd82143e0fef48bb
 vendor/lib64/motorola.hardware.health@1.0.so
 vendor/lib64/motorola.hardware.mods_camera.provider@2.4_vendor.so
 
